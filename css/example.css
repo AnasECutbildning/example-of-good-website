@@ -40,22 +40,22 @@
     margin-bottom: 30px;
 }
 .service-card-1 {
-    background-image: url(../img/pexels-adam-krypel-6498994.jpg);
+    background-image: url(../media/img/pexels-adam-krypel-6498994.jpg);
 }
 .service-card-2 {
-    background-image: url(../img/pexels-francesco-ungaro-998641.jpg);
+    background-image: url(../media/img/pexels-francesco-ungaro-998641.jpg);
 }
 .service-card-3 {
-    background-image: url(../img/pexels-jeremy-mÃ¼ller-6444367.jpg);
+    background-image: url(../media/img/pexels-jeremy-mÃ¼ller-6444367.jpg);
 }
 .service-card-4 {
-    background-image: url(../img/pexels-min-an-813269.jpg);
+    background-image: url(../media/img/pexels-min-an-813269.jpg);
 }
 .service-card-5 {
-    background-image: url(../img/pexels-philippe-donn-1169754.jpg);
+    background-image: url(../media/img/pexels-philippe-donn-1169754.jpg);
 }
 .service-card-6 {
-    background-image: url(../img/pexels-pixabay-2150.jpg);
+    background-image: url(../media/img/pexels-pixabay-2150.jpg);
 }
 .service-card-text-container {
     background-color: rgba(0, 0, 0, 0.3);
@@ -72,4 +72,11 @@
 }
 .service-card-text-container:hover {
     transform: translateY(-40%);
+}
+footer{
+    background-color: blueviolet;
+    color: white;
+    padding: 15px;
+    border-top: 2px solid black;
+
 }
